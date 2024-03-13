@@ -1,5 +1,8 @@
 .venv/
 .vscode/
 __pycache__/
+alembic/
 
-Piplock.lock
+Pipfile.lock
+alembic.ini
+.env

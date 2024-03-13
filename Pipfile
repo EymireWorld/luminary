@@ -9,6 +9,10 @@ sqlalchemy = {extras = ["asyncio"], version = "*"}
 alembic = "*"
 asyncpg = "*"
 gunicorn = "*"
+python-dotenv = "*"
+bcrypt = "*"
+pyjwt = {extras = ["crypto"], version = "*"}
+flask-wtf = "*"
 
 [dev-packages]
 
